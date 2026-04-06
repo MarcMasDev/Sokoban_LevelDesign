@@ -84,12 +84,12 @@ public class LevelEditor : EditorWindow
         DrawDimensionsToolbar();
         DrawPaletteToolbar();
 
+        DrawMainGridArea();
+
         if (selectedCellType == CellType.Furniture)
         {
             DrawFurnitureToolbar();
         }
-
-        DrawMainGridArea();
 
         DrawFooterControls();
 
