@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 633f5322590ce1a47b2bc5fdb27781b6, type: 3}
+  m_Name: CellsDefaultData
+  m_EditorClassIdentifier: Assembly-CSharp::CellDatabase
+  cells:
+  - cellType: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    icon: {fileID: 0}
+  - cellType: 1
+    color: {r: 0.8509804, g: 0.6138344, b: 0.4078431, a: 0.56078434}
+    icon: {fileID: -2385289666700328956, guid: d6b93fcbf5c39704ba753471829a29ac, type: 3}
+  - cellType: 2
+    color: {r: 1, g: 1, b: 1, a: 1}
+    icon: {fileID: 8189530781275069208, guid: d6b93fcbf5c39704ba753471829a29ac, type: 3}
+  - cellType: 3
+    color: {r: 0, g: 1, b: 0.014408827, a: 1}
+    icon: {fileID: -7011284309700727766, guid: 0542a39dbdb3b604389adfbbb21eb3b4, type: 3}
+  - cellType: 4
+    color: {r: 0.8432784, g: 0, b: 1, a: 1}
+    icon: {fileID: 0}
+  - cellType: 5
+    color: {r: 1, g: 0, b: 0, a: 1}
+    icon: {fileID: -1481841169, guid: d6b93fcbf5c39704ba753471829a29ac, type: 3}
