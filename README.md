@@ -1,5 +1,6 @@
 # Sokoban_LevelDesign
-Vídeo:
+Vídeo (primers minuts es mostra la tool - fins al minut 3:45, al final el gameplay):
+https://drive.google.com/file/d/1fVZ11gdZaz4YcFN5_52qakNcqCza2jem/view?usp=sharing
 
 Crèdits:
 Assets:
